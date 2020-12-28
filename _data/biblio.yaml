@@ -1,0 +1,7 @@
+- authors: MMOX
+  title: A Title About Citations
+  key: ref1
+
+- authors: MMox
+  title: "[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting)"
+  key: highlight
