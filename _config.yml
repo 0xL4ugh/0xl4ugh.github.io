@@ -5,12 +5,12 @@ url: "0xl4ugh.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: 0xL4ugh                                    # site's title
 description: "CTF Players "      # used by search engines
-avatar: assets/img/logo.jpeg                         # Empty for no avatar in navbar
+avatar: assets/img/logo.png                         # Empty for no avatar in navbar
 favicon:                           # Icon displayed in the tab
 
 # Header and footer text
 header_text: Wait for the l4ughers   # Change Blog header text
-header_feature_image: assets/img/logo.jpeg 
+header_feature_image: assets/img/logo.png 
 footer_text:  Powered by 0xl4uth
 
 
