@@ -3,7 +3,7 @@ layout: post
 title: Mostafa Abdelaziz
 feature-img: "assets/img/portfolio/MMOX.jpg"
 img: "assets/img/portfolio/MMOX.jpg"
-#date: 0-09-03
+date: 2020-10-18
 tags: [Team]
 ---
 
