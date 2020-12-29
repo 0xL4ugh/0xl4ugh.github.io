@@ -7,4 +7,4 @@ feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Team]
 ---
 
-{% include Team.html %}
+{% include portfolio.html %}
