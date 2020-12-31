@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Cyb3er Guy
-img: "assets/img/portfolio/ninja.png"
+title: Momen Ali
+feature-img: "assets/img/portfolio/MomenAli.jpg"
+img: "assets/img/portfolio/MomenAli.jpg"
 date: 17-10-2020
 tags: [Team]
 ---
-Web & Network Penetration Tester
+<p   style="text-align: center;">
+  1st Year student at Languages And Translation 
+  Interested in: Red Teaming, Pentesting And Bug Hunting
+  Instructor At <a href ="https://www.youtube.com/channel/UCPbWcFHXgBT9gtHSaGExgHA">Youtube</a>
+</p>
