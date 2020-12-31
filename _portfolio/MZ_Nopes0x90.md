@@ -3,7 +3,7 @@ layout: post
 title: Ahmed Mazroua
 feature-img: "assets/img/portfolio/Mazroua.png"
 img: "assets/img/portfolio/Mazroua.png"
-date: 2018-09-03
+date: 2020-12-30
 tags: [Team]
 ---
 <p style ="text-align: center; font-size: 20px">
