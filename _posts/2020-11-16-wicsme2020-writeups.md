@@ -49,7 +49,7 @@ i was going to reverse the pdf but i noticed Some thing when i highlight a text 
 <br> 
 so I easily selected the hole file and found the flag:<br>
 ![flag](https://user-images.githubusercontent.com/33530187/99196138-616beb80-2758-11eb-8283-08642fd67fbf.png)
-<br>And the flag was :<b> n1CeReDaCTION-sureLYNot911081</b>
+<br>And the flag was :<b> n1CeReDaCTION-sureLYNot911081
 
 *****************************************************************************************************************************************************************
 <br>
@@ -64,7 +64,7 @@ Then by using Rockyou.txt to brute force The password it succeeded<br>
 <br>
 
 and the password was :
-<b>q1w2e3r4t5y6</b>
+<b>q1w2e3r4t5y6
 by using this passsowrd i was able to extract the text file :<br>
 ![flag](https://user-images.githubusercontent.com/33530187/99196624-988fcc00-275b-11eb-9d4b-25effcf52bb9.png)
 <br>
@@ -88,7 +88,7 @@ and that was it the flag appeared  <br>
 
 ![flag](https://user-images.githubusercontent.com/33530187/99196830-c1fd2780-275c-11eb-8e9f-bcc4aaa416bf.png)
 <br>
-the Flag was: <b> nicESearChIng01812</b> 
+the Flag was: <b> nicESearChIng01812 
 *****************************************************************************************************************************************************************
 <br>
 <h2 align="center">FM01</h2>
@@ -113,7 +113,7 @@ and by using
 chmod +x file| ./file
 ```
 
-</b>
+
 
 ![flag](https://user-images.githubusercontent.com/33530187/99197986-bbbe7980-2763-11eb-858f-6b6b2d070dee.png)
 
@@ -143,13 +143,13 @@ it asked for a password so i didn't know what to do but using ("strings") as usu
 <br>
 
 
-i saw a wired text :<b> this_isNOT-a_PasswORD-ToGuess-Easily</b>
-so i tried using it as the password and the flag poped </b>
+i saw a wired text :<b> this_isNOT-a_PasswORD-ToGuess-Easily
+so i tried using it as the password and the flag poped 
 
 ![flag](https://user-images.githubusercontent.com/33530187/99198637-f1fdf800-2767-11eb-9f63-7745eddbf05e.png)
 
-</b>
-and the Flag was : <b> sImpLEASCiiSTriNGS-32910</b>
+
+and the Flag was : <b> sImpLEASCiiSTriNGS-32910
 
 *****************************************************************************************************************************************************************
 <br>
@@ -181,15 +181,16 @@ it asked for a password so i didn't know what to do but using ("strings") as usu
 <br>
 
 
-i saw a wired text :<b> this_isNOT-a_PasswORD-ToGuess-Easily</b>
-so i tried using it as the password and the flag poped </b>
+i saw a wired text :<b> this_isNOT-a_PasswORD-ToGuess-Easily
+so i tried using it as the password and the flag poped 
 
 ![flag](https://user-images.githubusercontent.com/33530187/99198637-f1fdf800-2767-11eb-9f63-7745eddbf05e.png)
 
-</b>
-and the Flag was : <b> sImpLEASCiiSTriNGS-32910</b>
+
+and the Flag was : <b> sImpLEASCiiSTriNGS-32910
 
 *****************************************************************************************************************************************************************
 <br>
  
  For [Web-Writeups](https://medium.com/@abdelhameedghazy/wics-and-sans-bootup-ctf-web-challenges-writeup-1eaef85eb36a)
+
