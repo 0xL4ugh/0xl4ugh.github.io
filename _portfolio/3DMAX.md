@@ -3,7 +3,7 @@ layout: post
 title: Ahmed Gad
 feature-img: "assets/img/portfolio/Ahmed.jpg"
 img: "assets/img/portfolio/Ahmed.jpg"
-date: 2017-09-03
+date: 31-12-2020
 tags: [Team]
 ---
 
