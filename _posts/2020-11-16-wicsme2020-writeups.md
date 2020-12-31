@@ -1,7 +1,6 @@
 ---
 layout: post
-title:>
-        Wicsme 2020 Digital Forensics Writeup                               # Title of the page
+title: Wicsme 2020 Digital Forensics Writeup                               # Title of the page
 hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
 feature-img: "assets/img/posts/wismie.jpg"              # Add a feature-image to the post
 thumbnail: "assets/img/posts/wismie.jpg"  # Add a thumbnail image on blog view
@@ -10,13 +9,12 @@ bootstrap: true                                   # Add bootstrap to the page
 author: MMOX
 tags: [ctf, writeup]
 ---
-
+This is the Digital forinsces challenges writeups for the WICSME AND SANS BOOTUP CTF 2020
                             
                             
                             
  
  
-*****************************************************************************************************************************************************************
 <h2 align ="center ">Fe01 </h2> 
 
 It was an easy one there was a .rtf file when i opened it using ("libre office Writer") i found: 
