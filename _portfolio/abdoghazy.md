@@ -3,7 +3,7 @@ layout: post
 title: Abdelhameed Ghazy
 feature-img: "assets/img/portfolio/ghazy.jpeg"
 img: "assets/img/portfolio/ghazy.jpeg"
-date: August, 16 2019
+date: August, 16 2001
 tags: [Team]
 ---
 
