@@ -1,35 +1,38 @@
 ---
 layout: post
 title: Wicsme 2020 Digital Forensics Writeup                               # Title of the page
-hide_title: true                                  # Hide the title when displaying the post, but shown in lists of posts
-feature-img: "/assets/img/posts/wismie.jpg"              # Add a feature-image to the post
+hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
+feature-img: "assets/img/posts/wismie.jpg"              # Add a feature-image to the post
 thumbnail: "assets/img/posts/wismie.jpg"  # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
-tags: [html]
+tags: [ctf, writeup]
 ---
 
 #  (0xL4ugh)
-<h1 align="center">Digital-Forensic-Challenges </h1>   
+                                                   Digital-Forensic-Challenges
+                                                   
  
  
 *****************************************************************************************************************************************************************
 <h2 align ="center ">Fe01 </h2> 
-</br>
-It was an easy one there was a .rtf file when i opened it using ("libre office Writer") i found: </br></br>
+
+It was an easy one there was a .rtf file when i opened it using ("libre office Writer") i found: 
 
 ![1](https://user-images.githubusercontent.com/33530187/99195681-2c11ce80-2755-11eb-9103-01f23bf3878b.png)
 
-</br>
 
-by clicking (Ctr+A) I selected all the right clicked to choose paragraph - Text Body </br>
-</br>
+
+by clicking (Ctr+A) I selected all the right clicked to choose paragraph - Text Body 
+
 ![2](https://user-images.githubusercontent.com/33530187/99195858-6039bf00-2756-11eb-9cad-21085cd6eca9.png)
 
-the flag appered</br>
+the flag appered
+
 ![flag](https://user-images.githubusercontent.com/33530187/99195866-6e87db00-2756-11eb-8217-1e0b8d33ae59.png)
 
-the flag was :<b>n𝑖𝐶𝑒𝐴𝑛𝐷𝐸𝑎𝑠𝑦10018</b>
+the flag was : # n𝑖𝐶𝑒𝐴𝑛𝐷𝐸𝑎𝑠𝑦10018
+
 *****************************************************************************************************************************************************************
 </br>
 <h2 align="center">Fe02</h2>
