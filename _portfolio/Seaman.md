@@ -3,7 +3,7 @@ layout: post
 title:  Omar Hamdy
 img: "assets/img/portfolio/Omar.jpeg"
 feature-img: "assets/img/portfolio/Omar.jpeg"
-date: 20-10-2016
+date: 5-6-2017
 tags: [Team]
 ---
 
