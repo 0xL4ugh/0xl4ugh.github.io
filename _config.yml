@@ -11,7 +11,7 @@ favicon:                           # Icon displayed in the tab
 # Header and footer text
 header_text: Wait for the l4ughers   # Change Blog header text
 header_feature_image: assets/img/logo.png 
-footer_text:  Powered by 0xl4uth
+footer_text:  Powered by 0xl4ugh
 
 
 # Blog
@@ -37,7 +37,8 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:name
-
+posts:
+    permalink: /:title
 # BUILD SETTINGS
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules"]
