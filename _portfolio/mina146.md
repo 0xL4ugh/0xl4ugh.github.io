@@ -3,7 +3,7 @@ layout: post
 title:  Mina Ashraf Gamil
 img: "assets/img/portfolio/mina.jpg"
 feature-img: "assets/img/portfolio/mina.jpg"
-date: 16-10-2020
+date: 16-10-2017
 tags: [Team]
 ---
 <p  style="text-align: center; font-size: 40;">
