@@ -3,7 +3,7 @@ layout: post
 title: Mohamed Maher
 feature-img: "assets/img/portfolio/maher.jpg"
 img: "assets/img/portfolio/maher.jpg"
-date: 2020-12-31
+date: 2017-4-31
 tags: [Team]
 ---
 <p style ="text-align: center; font-size: 30px">
