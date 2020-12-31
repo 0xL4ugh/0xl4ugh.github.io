@@ -33,9 +33,9 @@ the flag appered
 
 ![flag](https://user-images.githubusercontent.com/33530187/99195866-6e87db00-2756-11eb-8217-1e0b8d33ae59.png)
 
-the flag was : # n𝑖𝐶𝑒𝐴𝑛𝐷𝐸𝑎𝑠𝑦10018
+the flag was : <b> n𝑖𝐶𝑒𝐴𝑛𝐷𝐸𝑎𝑠𝑦10018 </b>
 
-*****************************************************************************************************************************************************************
+
 <br>
 <h2 align="center">Fe02</h2>
 <br>
@@ -52,7 +52,7 @@ so I easily selected the hole file and found the flag:<br>
 ![flag](https://user-images.githubusercontent.com/33530187/99196138-616beb80-2758-11eb-8283-08642fd67fbf.png)
 <br>And the flag was :<b> n1CeReDaCTION-sureLYNot911081
 
-*****************************************************************************************************************************************************************
+
 <br>
 <h2 align="center">Fe03</h2>
 when i unzipped the challenge there was a flag.zip password protected<br>
@@ -71,7 +71,7 @@ by using this passsowrd i was able to extract the text file :<br>
 <br>
 
 the flag was  :<b> CraCKInGJ0b-67189 <br>
-*****************************************************************************************************************************************************************
+
 <br>
 <h2 align="center">Fe04</h2>
 
@@ -90,7 +90,7 @@ and that was it the flag appeared  <br>
 ![flag](https://user-images.githubusercontent.com/33530187/99196830-c1fd2780-275c-11eb-8e9f-bcc4aaa416bf.png)
 <br>
 the Flag was: <b> nicESearChIng01812 
-*****************************************************************************************************************************************************************
+
 <br>
 <h2 align="center">FM01</h2>
 It was a weird file i used file to idintfy it but it showed Data file <br>
@@ -120,78 +120,10 @@ chmod +x file| ./file
 
 <br>
 
-*****************************************************************************************************************************************************************
+
 
 <br>
 <h3>
 and sadly we couldn't solve The last 2 Forensics challenges (FM02 , FH01)
 </h3>
-
-*****************************************************************************************************************************************************************
-
-
-<h1 align="center">Binary-Exploit-Challenges </h1>
-
-*****************************************************************************************************************************************************************
-<br>
-<h2 align="center">Be01</h2>
-
-the first thing i tried is running the program <br>
-it asked for a password so i didn't know what to do but using ("strings") as usual<br>
-
-![1](https://user-images.githubusercontent.com/33530187/99198574-9469ab80-2767-11eb-8999-9fff5b32f9b9.png)
-
-<br>
-
-
-i saw a wired text :<b> this_isNOT-a_PasswORD-ToGuess-Easily
-so i tried using it as the password and the flag poped 
-
-![flag](https://user-images.githubusercontent.com/33530187/99198637-f1fdf800-2767-11eb-9f63-7745eddbf05e.png)
-
-
-and the Flag was : <b> sImpLEASCiiSTriNGS-32910
-
-*****************************************************************************************************************************************************************
-<br>
- 
- For [Web-Writeups](https://medium.com/@abdelhameedghazy/wics-and-sans-bootup-ctf-web-challenges-writeup-1eaef85eb36a)
-
-
-*****************************************************************************************************************************************************************
-
-<br>
-<h3>
-and sadly we couldn't solve The last 2 Forensics challenges (FM02 , FH01)
-</h3>
-
-*****************************************************************************************************************************************************************
-
-
-<h1 align="center">Binary-Exploit-Challenges </h1>
-
-*****************************************************************************************************************************************************************
-<br>
-<h2 align="center">Be01</h2>
-
-the first thing i tried is running the program </br>
-it asked for a password so i didn't know what to do but using ("strings") as usual</br>
-
-![1](https://user-images.githubusercontent.com/33530187/99198574-9469ab80-2767-11eb-8999-9fff5b32f9b9.png)
-
-<br>
-
-
-i saw a wired text :<b> this_isNOT-a_PasswORD-ToGuess-Easily
-so i tried using it as the password and the flag poped 
-
-![flag](https://user-images.githubusercontent.com/33530187/99198637-f1fdf800-2767-11eb-9f63-7745eddbf05e.png)
-
-
-and the Flag was : <b> sImpLEASCiiSTriNGS-32910
-
-*****************************************************************************************************************************************************************
-<br>
- 
- For [Web-Writeups](https://medium.com/@abdelhameedghazy/wics-and-sans-bootup-ctf-web-challenges-writeup-1eaef85eb36a)
 
