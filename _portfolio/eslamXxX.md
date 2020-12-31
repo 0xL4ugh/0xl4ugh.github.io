@@ -3,7 +3,7 @@ layout: post
 title:  Eslam Sayed
 feature-img: "assets/img/portfolio/eslam.jpg"
 img: "assets/img/portfolio/eslam.jpg"
-date: August, 16 2020
+date: 31-12-2020
 tags: [Team]
 ---
 
