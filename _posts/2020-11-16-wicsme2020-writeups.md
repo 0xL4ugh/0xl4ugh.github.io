@@ -7,10 +7,11 @@ thumbnail: "assets/img/posts/wismie.jpg"  # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
 author: MMOX
-tags: [ctf, writeup]
+excerpt_separator: <!--more-->
+tags: [ctf, writeup, DigitalForensics]
 ---
 This is the Digital forinsces challenges writeups for the WICSME AND SANS BOOTUP CTF 2020
-<br>
+<br><!--more-->
                             
                             
                             
