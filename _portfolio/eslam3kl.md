@@ -3,7 +3,7 @@ layout: post
 title: Eslam Akl
 feature-img: "assets/img/portfolio/3kl.jpg"
 img: "assets/img/portfolio/3kl.jpg"
-date: 2020-09-03
+date: 2020-12-30
 tags: [Team]
 ---
 <p style ="text-align: center; font-size: 40px">
