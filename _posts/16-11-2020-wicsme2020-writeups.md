@@ -1,7 +1,6 @@
 ---
 layout: post
-title:>
-        Wicsme 2020 Digital Forensics Writeup                               # Title of the page
+title: Wicsme 2020 Digital Forensics Writeup                               # Title of the page
 hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
 feature-img: "assets/img/posts/wismie.jpg"              # Add a feature-image to the post
 thumbnail: "assets/img/posts/wismie.jpg"  # Add a thumbnail image on blog view
