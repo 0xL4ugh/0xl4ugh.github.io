@@ -7,8 +7,11 @@ thumbnail: "https://j.top4top.io/p_1827enp1i1.png"  # Add a thumbnail image on b
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
 author: Jizen0x01
-tags: [DigitalForensics,writeup,ctf]
+excerpt_separator: <!--more-->
+tags: [ctf, writeup, DigitalForensics]
+
 ---
+CyberTelents New year CTF - Digital Forensics challenge - Mess ME
 
 
 | Details |                     |
