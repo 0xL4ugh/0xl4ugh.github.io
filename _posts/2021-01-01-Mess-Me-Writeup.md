@@ -2,8 +2,8 @@
 layout: post
 title: "New Year CTF - Mess Me Writeup"
 hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
-feature-img: "assets/img/posts/wismie.jpg"              # Add a feature-image to the post
-thumbnail: "assets/img/posts/wismie.jpg"  # Add a thumbnail image on blog view
+feature-img: "https://j.top4top.io/p_1827enp1i1.png"              # Add a feature-image to the post
+thumbnail: "https://j.top4top.io/p_1827enp1i1.png"  # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
 author: jizen0x01
