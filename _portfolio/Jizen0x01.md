@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mohammed Sami 
-feature-img: "assets/img/portfolio/0.png"
-img: "assets/img/portfolio/0.png"
+feature-img: "assets/img/portfolio/1.jpg"
+img: "assets/img/portfolio/1.jpg"
 date: 2018-09-03
 tags: [Team]
 ---
