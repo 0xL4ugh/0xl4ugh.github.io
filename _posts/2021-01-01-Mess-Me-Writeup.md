@@ -10,7 +10,6 @@ author: jizen0x01
 tags: [DigitalForensics,writeup,ctf]
 ---
 
-![messme](https://j.top4top.io/p_1827enp1i1.png)
 
 | Details |                     |
 | ------------- |:-------------:|
