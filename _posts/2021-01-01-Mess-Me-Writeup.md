@@ -12,7 +12,7 @@ tags: [ctf, writeup, DigitalForensics]
 
 ---
 CyberTelents New year CTF - Digital Forensics challenge - Mess ME
-
+ <!--more-->
 
 | Details |                     |
 | ------------- |:-------------:|
