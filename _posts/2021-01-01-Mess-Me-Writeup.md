@@ -6,7 +6,7 @@ feature-img: "https://j.top4top.io/p_1827enp1i1.png"              # Add a featur
 thumbnail: "https://j.top4top.io/p_1827enp1i1.png"  # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
-author: jizen0x01
+author: Jizen0x01
 tags: [DigitalForensics,writeup,ctf]
 ---
 
