@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emad Shawky (emad0x90)
+title: Emad Shawky 
 feature-img: "assets/img/portfolio/emad0x90.jpeg"
 img: "assets/img/portfolio/emad0x90.jpeg"
 date: 02/01/2020
