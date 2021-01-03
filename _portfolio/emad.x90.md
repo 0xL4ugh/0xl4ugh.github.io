@@ -8,14 +8,13 @@ tags: [Team]
 ---
 
 <p style ="text-align: center; font-size: 40px">
-Name: Emad Shawky Muhammad
-User : emad0x90
-Student (Level four BA)
-University: Alexandria University
-Field : Communication Engineering
-Interested in: Web technologis as general, Pentreation Testing, OWASP TOP 10, Red Teaming and Secure Code.
-Some info: I'm
-Cyber Security Engineer at multinational company ..
+Name: Emad Shawky Muhammad <br/>
+User : emad0x90 <br/>
+Student (Level four BA) <br/>
+University: Alexandria University <br/>
+Field : Communication Engineering <br/>
+Interested in: Web technologis as general, Pentreation Testing, OWASP TOP 10, Red Teaming <br/> and Secure Code.
+Some info: I'm Cyber Security Engineer at multinational company ..
 I have + 1 year of professional experience in Cyber Security field, specialist in Web Security Peneteration Testing, 
  
  I found more than 200 vulnerabilities in big companies like:
