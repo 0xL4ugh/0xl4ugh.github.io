@@ -14,7 +14,7 @@ Student (Level four BA) <br/>
 University: Alexandria University <br/>
 Field : Communication Engineering <br/>
 Interested in: Web technologis as general, Pentreation Testing, OWASP TOP 10, Red Teaming and Secure Code. <br/>
-Some info: I'm Cyber Security Engineer at multinational company ..
+Some info: I'm Cyber Security Engineer at multinational company .. <br/>
 I have + 1 year of professional experience in Cyber Security field, specialist in Web Security Peneteration Testing, 
  
  I found more than 200 vulnerabilities in big companies like:
