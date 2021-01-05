@@ -19,7 +19,7 @@ Iam Abdelhameed Ghazy A Member OF 0xL4ugh Team 3> and there is my writeup for al
 In Fact The Web challenges Was So Easy And The Last one Is amazing 3> 
 
 The First challenge called easy and when you open the link and view the source and search for the flag format you will find it :) 
-<img src="assets/img/writeups/hac-sec/easy.png"/>
+<img src="assets/img/writeups/hac-sec/easy.png" />
 
 
 The Second challenge Called guess and when you entered it you will see that :
