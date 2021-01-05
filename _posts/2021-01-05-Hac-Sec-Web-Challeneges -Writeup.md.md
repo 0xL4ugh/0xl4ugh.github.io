@@ -19,12 +19,12 @@ Iam Abdelhameed Ghazy A Member OF 0xL4ugh Team 3> and there is my writeup for al
 In Fact The Web challenges Was So Easy And The Last one Is amazing 3> 
 
 The First challenge called easy and when you open the link and view the source and search for the flag format you will find it :) 
-<img src="assets/img/writeups/hac-sec/easy.png" />
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hac-sec/easy.png" />
 
 
 The Second challenge Called guess and when you entered it you will see that :
 
-<img src="assets/img/writeups/hac-sec/guess.png" />
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hac-sec/guess.png" />
 
 so let's give it a get parameter called guess 
 assets/img/writeups/hac-sec/guess1.png
@@ -63,7 +63,7 @@ The Forth Challenge and the Amazing One is Called Include :)
 when we enter it we will see a button and when we click on it
 it will set get parameter called view with a value 
 ("/var/www/html/") and prints some words in the page
-<img src="assets/img/writeups/hac-sec/include.png" />
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hac-sec/include.png" />
 so from the challenge name  and the parameter view
 we will understand that we are in LFI Challenge
 after trying much payloads and no thing worked :(
@@ -79,7 +79,7 @@ and alhamdullah there is no error but also there is no output
 so let's get back again and try to see the source of the file by using php wrappers
 and alhamdullah i could get the souce by this payload : 
 php://filter/convert.base64-encode/resource=/var/www/html/index
-<img src="assets/img/writeups/hac-sec/include1.png"/>
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hac-sec/include1.png"/>
 after doing some code review i understand that there is another 
 get parameter called ext when it's not set the extention of the file will be php
 and when it exist it the value will be the extention of the file  
