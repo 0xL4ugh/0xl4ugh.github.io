@@ -10,7 +10,7 @@ author: Abdelhameed Ghazy
 excerpt_separator: <!--more-->
 tags: [ctf, writeup, Web]
 ---
-Hac-Sec 2021 Web Challenges Writeup  
+<h1>Hac-Sec 2021 Web Challenges Writeup </h1>  
  <!--more-->
 
 
