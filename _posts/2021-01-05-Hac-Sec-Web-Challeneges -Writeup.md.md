@@ -6,7 +6,7 @@ feature-img: "assets/img/writeups/hac-sec/Hac_Security.png"              # Add a
 thumbnail: "assets/img/writeups/hac-sec/Hac_Security.png"  # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
-author: Abdelhameed Ghazy
+author: abdoghazy
 excerpt_separator: <!--more-->
 tags: [ctf, writeup, Web]
 ---
