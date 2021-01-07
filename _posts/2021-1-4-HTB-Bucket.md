@@ -157,7 +157,7 @@ index.php) some php code  </span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=1896 height=603 id="Picture 11" src="/assets/img/Bucket_files/image011.jpg" alt="011"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img  id="Picture 11" src="/assets/img/Bucket_files/image011.jpg" alt="011"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
