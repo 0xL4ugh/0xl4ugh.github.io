@@ -35,7 +35,7 @@ tags: [HTB, writeup, Machines]
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1241 height=355 id="Picture 1" src="assets/Bucket_files/image001.jpg"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1241 height=355 id="Picture 1" src="assets/img/Bucket_files/image001.jpg"></span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
