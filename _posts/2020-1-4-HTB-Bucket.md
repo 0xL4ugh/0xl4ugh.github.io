@@ -12,10 +12,6 @@ tags: [HTB, writeup, Machines]
 ---
 <p style='margin:0in'><span style='font-size:20.0pt;font-family:"Calibri Light",sans-serif'>Bucket-writeup</span></p>
 
-<p style='margin:0in'><span style='font-size:10.0pt;font-family:"Calibri",sans-serif;color:#767676'>Monday, January 4, 2021</span></p>
-
-<p style='margin:0in'><span style='font-size:10.0pt;font-family:"Calibri",sans-serif;color:#767676'>4:31 PM</span></p>
-
 <p style='margin:0in'><span style='font-size:13.0pt;font-family:"Calibri",sans-serif'>OS: <span style='color:#201F1E'>Linux</span></span></p>
 
 <p style='margin:0in'><span style='font-size:13.0pt;font-family:"Calibri",sans-serif'>Difficulty: Medium</span></p>
