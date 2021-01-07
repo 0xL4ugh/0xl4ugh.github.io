@@ -1,24 +1,15 @@
 
 ---
 layout: post
-title: Wicsme 2020 Digital Forensics Writeup                               # Title of the page
+title:  Hack The Box Bucket writeup                             # Title of the page
 hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
 feature-img: "assets/img/Bucket_files/download.jpg"              # Add a feature-image to the post
 thumbnail: "assets/img/Bucket_files/download.jpg"   # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
-author: MMOX
 excerpt_separator: <!--more-->
 tags: [HTB, writeup, Machines]
 ---
-This is the Digital forinsces challenges writeups for the WICSME AND SANS BOOTUP CTF 2020
-<br><!--more-->
-
-
-<body lang=EN-US link=blue vlink=purple style='word-wrap:break-word'>
-
-<div class=WordSection1>
-
 <p style='margin:0in'><span style='font-size:20.0pt;font-family:"Calibri Light",sans-serif'>Bucket-writeup</span></p>
 
 <p style='margin:0in'><span style='font-size:10.0pt;font-family:"Calibri",sans-serif;color:#767676'>Monday, January 4, 2021</span></p>
@@ -30,6 +21,14 @@ This is the Digital forinsces challenges writeups for the WICSME AND SANS BOOTUP
 <p style='margin:0in'><span style='font-size:13.0pt;font-family:"Calibri",sans-serif'>Difficulty: Medium</span></p>
 
 <p style='margin:0in'><span style='font-size:13.0pt;font-family:"Calibri",sans-serif'>Points: 30</span></p>
+<br><!--more-->
+
+
+<body lang=EN-US link=blue vlink=purple style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
