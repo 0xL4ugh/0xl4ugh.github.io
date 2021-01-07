@@ -107,7 +107,7 @@ class=spelle>pcap</span></span>&nbsp;file so I checked the&nbsp;<span
 class=SpellE><span class=spelle>pcap</span></span>&nbsp;file but nothing
 interesting in it so I tried if there is any tool to crack pdf password</span><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=439
+<p class=MsoNormal><span style='mso-no-proof:yes'><img 
 src="/assets/img/Reprisal_files/image006.jpg" v:shapes="Picture_x0020_4"></span></p>
 
 <p class=MsoNormal style='mso-line-height-alt:11.55pt'><span class=GramE><span
@@ -125,7 +125,7 @@ class=SpellE>ihatehackers</span></span>&nbsp;”</span><span style='mso-ascii-fo
 Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
 mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=120
+<p class=MsoNormal><span style='mso-no-proof:yes'><img 
 src="/assets/img/Reprisal_files/image007.jpg" v:shapes="Picture_x0020_5"></span></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
@@ -140,7 +140,7 @@ base64</span><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
 "Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
 color:black'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=303
+<p class=MsoNormal><span style='mso-no-proof:yes'><img 
 src="/assets/img/Reprisal_files/image008.jpg" v:shapes="Picture_x0020_6"></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -151,7 +151,7 @@ class=GramE>footer</span></span><span style='font-size:15.0pt;font-family:"Sourc
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
 color:#262626'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=320
+<p class=MsoNormal><span style='mso-no-proof:yes'><img 
 src="/assets/img/Reprisal_files/image009.jpg" v:shapes="Picture_x0020_7"></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
@@ -169,7 +169,7 @@ I used it wow <span class=GramE>it’s</span> corrupted!!!</span><span
 style='font-size:15.0pt;font-family:"Source Sans Pro",sans-serif;mso-fareast-font-family:
 "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#262626'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=326
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 
 src="/assets/img/Reprisal_files/image010.jpg" v:shapes="Picture_x0020_9"></span></p>
 
 <p class=MsoNormal><span class=GramE><span style='font-size:18.0pt;line-height:
@@ -177,7 +177,7 @@ src="/assets/img/Reprisal_files/image010.jpg" v:shapes="Picture_x0020_9"></span>
 style='font-size:18.0pt;line-height:107%;font-family:"Abd ElRady";color:#262626;
 background:white'> I started to fix it and boom the flag:</span><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=157
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 
 src="/assets/img/Reprisal_files/image011.jpg" v:shapes="Picture_x0020_10"></span></p>
 
 </div>
