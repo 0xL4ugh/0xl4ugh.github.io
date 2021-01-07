@@ -58,11 +58,21 @@ style='font-size:18.0pt;line-height:107%;font-family:"Abd ElRady"'>&nbsp;</span>
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:18.0pt;line-height:107%;font-family:"Abd ElRady"'>&nbsp;</span></p>
 
-<p class=MsoNormal><span style='left:0px;position:absolute;left:400px;top:-48px;width:624px;height:415px'><img width=624 height=388 src="/assets/img/Reprisal_files/image003.jpg"></span><span style='font-size:18.0pt;
-line-height:107%;font-family:"Abd ElRady"'>I tried to extract it but it had
-password so I tried to use john on it but nothing so I back to tcp streams
-again and I found the password on the 5<sup>th</sup> stream and it was = “ 4lls4f3s3cur1ty
-”</span></p>
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-no-proof:yes'><img border=0 width=624 height=388 id="_x0000_i1031"
+src="/assets/img/Reprisal_files/image003.jpg"></span><span style='font-size:18.0pt;
+line-height:106%;font-family:"Abd ElRady"'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:18.0pt;line-height:106%;font-family:"Abd ElRady"'>So I
+extracted data and I got 1 pdf and 1 <span class=SpellE>pcap</span> file so I
+checked the <span class=SpellE>pcap</span> file but nothing interesting in it
+so I tried if there is any tool to crack pdf password</span><span
+style='mso-no-proof:yes'><img border=0 width=624 height=439 id="_x0000_i1030"
+src="writeup_files/image004.jpg"></span><span style='font-size:18.0pt;
+line-height:106%;font-family:"Abd ElRady"'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:18.0pt;line-height:107%;font-family:
 "Abd ElRady"'>&nbsp;</span></p>
