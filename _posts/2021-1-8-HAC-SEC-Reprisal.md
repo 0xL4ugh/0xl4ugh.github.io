@@ -175,7 +175,7 @@ src="/assets/img/Reprisal_files/image010.jpg" v:shapes="Picture_x0020_9"></span>
 <p class=MsoNormal><span class=GramE><span style='font-size:18.0pt;line-height:
 107%;font-family:"Abd ElRady";color:#262626;background:white'>So</span></span><span
 style='font-size:18.0pt;line-height:107%;font-family:"Abd ElRady";color:#262626;
-background:white'> I started to fix it and boom the flag:</span><o:p></o:p></span></p>
+background:white'> I started to fix it and boom the flag:<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 
 src="/assets/img/Reprisal_files/image011.jpg" v:shapes="Picture_x0020_10"></span></p>
