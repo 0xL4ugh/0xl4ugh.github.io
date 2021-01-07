@@ -52,11 +52,11 @@ tags: [HTB, writeup, Machines]
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1353 height=327 id="Picture 3" src="assets/img/Bucket_files/image003.jpg" alt="003"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1353 height=327 id="Picture 3" src="/assets/img/Bucket_files/image003.jpg" alt="003"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>Here is another subdomain to see, and there is nothing again</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=646 height=134 id="Picture 4" src="assets/img/Bucket_files/image004.jpg" alt="004"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=646 height=134 id="Picture 4" src="/assets/img/Bucket_files/image004.jpg" alt="004"></span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -64,7 +64,7 @@ tags: [HTB, writeup, Machines]
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1287 height=399 id="Picture 5" src="assets/img/Bucket_files/image005.jpg" alt="005"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1287 height=399 id="Picture 5" src="/assets/img/Bucket_files/image005.jpg" alt="005"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -72,7 +72,7 @@ tags: [HTB, writeup, Machines]
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=566 height=179 id="Picture 6" src="assets/img/Bucket_files/image006.jpg"
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=566 height=179 id="Picture 6" src="/assets/img/Bucket_files/image006.jpg"
 alt="006"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
@@ -83,7 +83,7 @@ alt="006"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>  </span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1882 height=292 id="Picture 7" src="assets/img/Bucket_files/image007.jpg"
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1882 height=292 id="Picture 7" src="/assets/img/Bucket_files/image007.jpg"
 alt="007"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
@@ -104,7 +104,7 @@ style='font-size:14.0pt;font-family:"Calibri",sans-serif'> ], then dump it with 
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=1021 height=646 id="Picture 8" src="assets/img/Bucket_files/image008.jpg" alt="008"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=1021 height=646 id="Picture 8" src="/assets/img/Bucket_files/image008.jpg" alt="008"></span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -135,7 +135,7 @@ it with (s3.bucket.htb/rev.php) but there is nothing, so we can test from (bucke
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img
-border=0 width=759 height=207 id="Picture 9" src="assets/img/Bucket_files/image009.jpg" alt="009"></span></p>
+border=0 width=759 height=207 id="Picture 9" src="/assets/img/Bucket_files/image009.jpg" alt="009"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -143,7 +143,7 @@ border=0 width=759 height=207 id="Picture 9" src="assets/img/Bucket_files/image0
 with web shell, logically we search in web directories (/var/www/), we noticed (bucket-app/)
 has Access-Control-List permisson</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=724 height=117 id="Picture 10" src="assets/img/Bucket_files/image010.jpg" alt="010"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=724 height=117 id="Picture 10" src="/assets/img/Bucket_files/image010.jpg" alt="010"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>So
 now we can think about something else, we saw(/etc/passwd), we remembered the
@@ -158,7 +158,7 @@ index.php) some php code  </span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=1896 height=603 id="Picture 11" src="assets/img/Bucket_files/image011.jpg" alt="011"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=1896 height=603 id="Picture 11" src="/assets/img/Bucket_files/image011.jpg" alt="011"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -167,7 +167,7 @@ this file execute with root-priv </span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=778 height=213 id="Picture 12" src="assets/img/Bucket_files/image012.jpg" alt="012"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=778 height=213 id="Picture 12" src="/assets/img/Bucket_files/image012.jpg" alt="012"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -182,7 +182,7 @@ know on any port to send this request </span></p>
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img
-border=0 width=1017 height=201 id="Picture 13" src="assets/img/Bucket_files/image013.jpg" alt="013"></span></p>
+border=0 width=1017 height=201 id="Picture 13" src="/assets/img/Bucket_files/image013.jpg" alt="013"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -192,7 +192,7 @@ can send request with curl to the local host on port 8000 to see if that
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=858 height=313 id="Picture 14" src="assets/img/Bucket_files/image014.jpg" alt="014"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=858 height=313 id="Picture 14" src="/assets/img/Bucket_files/image014.jpg" alt="014"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -205,7 +205,7 @@ we can create a table and put item in the same code in the AWS-JS-shell from </s
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=1062 height=561 id="Picture 15" src="assets/img/Bucket_files/image015.jpg" alt="015"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=1062 height=561 id="Picture 15" src="/assets/img/Bucket_files/image015.jpg" alt="015"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -214,7 +214,7 @@ create our malicious JS-code and run it with the shell:</span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'> </span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=782 height=598 id="Picture 16" src="assets/img/Bucket_files/image016.jpg"
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=782 height=598 id="Picture 16" src="/assets/img/Bucket_files/image016.jpg"
 alt="016 "></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
@@ -228,7 +228,7 @@ our payload we get the private key of the root in ( result.pdf).</span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=913 height=719 id="Picture 17" src="assets/img/Bucket_files/image017.jpg"
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img border=0 width=913 height=719 id="Picture 17" src="/assets/img/Bucket_files/image017.jpg"
 alt="017"></span></p>
 
 <p style='margin:0in'><span style='font-size:14.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
