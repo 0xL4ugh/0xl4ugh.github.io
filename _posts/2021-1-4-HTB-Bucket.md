@@ -35,14 +35,14 @@ tags: [HTB, writeup, Machines]
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1241 height=355 id="Picture 1" src="assets/img/Bucket_files/image001.jpg"></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1241 height=355 id="Picture 1" src="/assets/img/Bucket_files/image001.jpg"></span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
 <h2 style='margin:0in'><span style='font-family:"Calibri",sans-serif;color:#2E75B5'>Bucket.htb : port 80</span></h2>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
-[!image][assets/img/Bucket_files/image002.jpg]
+[!](assets/img/Bucket_files/image002.jpg)
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1349 height=723 id="Picture 2" src="assets/img/Bucket_files/image002.jpg" alt="002" "></span></p>
 
