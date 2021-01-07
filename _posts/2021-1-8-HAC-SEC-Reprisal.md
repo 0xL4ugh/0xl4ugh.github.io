@@ -38,7 +38,7 @@ Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
 mso-bidi-font-family:Calibri;color:black'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-no-proof:yes'><img border=0
-src="/assets/img/Reprisal_files/image001.jpg" v:shapes="Picture_x0020_1"><![endif]></span></p>
+src="/assets/img/Reprisal_files/image001.jpg" v:shapes="Picture_x0020_1"></span></p>
 
 <p class=MsoNormal style='mso-line-height-alt:11.55pt'><span style='font-size:
 18.0pt;font-family:"Abd ElRady";mso-fareast-font-family:"Times New Roman";
@@ -76,7 +76,7 @@ word-spacing:0px'>tcp</span></span></span><span style='font-variant-ligatures: n
 font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
 text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
 float:none;word-spacing:0px'>&nbsp;streams again and I found the password on
-the 5</span></span><sup style='font-variant-ligatures: normal;font-variant-caps: normal;
+the 5th</span><sup style='font-variant-ligatures: normal;font-variant-caps: normal;
 orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
 text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
 word-spacing:0px'><span style='font-family:"Abd ElRady";color:black'>th</span></sup><span
