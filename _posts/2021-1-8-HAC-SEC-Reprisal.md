@@ -20,21 +20,7 @@ This is the Digital forinsces challenge Reprisal writeup for the HAC-SEC CTF2021
 
 <div class=WordSection1>
 
-<p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-11.55pt'><span style='font-size:18.0pt;font-family:"Abd ElRady";mso-fareast-font-family:
-"Times New Roman";color:black'>0xL4ugh HAC-SEC CTF&nbsp;<a
-href="http://ctf.hac-security.com/challenges#Reprisal-15"><span
-style='color:black;background:white'>Reprisal</span></a></span><span
-style='mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
-mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
-<p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-11.55pt'><span style='font-size:18.0pt;font-family:"Abd ElRady";mso-fareast-font-family:
-"Times New Roman";color:black'>By: 0xL4ugh (xElessaway)<o:p></o:p></span></p>
-
-<p class=MsoNormal align=center style='text-align:center;mso-line-height-alt:
-11.55pt'><span style='font-size:18.0pt;font-family:"Abd ElRady";mso-fareast-font-family:
-"Times New Roman";color:black'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center;line-height:11.55pt'><span
 style='mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
@@ -51,30 +37,7 @@ header and file name called = “da_op_files.zip”<o:p></o:p></span></p>
 Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
 mso-bidi-font-family:Calibri;color:black'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1033" type="#_x0000_t75"
- style='width:468pt;height:254.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image001.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=339
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0
 src="/assets/img/Reprisal_files/image001.jpg" v:shapes="Picture_x0020_1"><![endif]></span></p>
 
 <p class=MsoNormal style='mso-line-height-alt:11.55pt'><span style='font-size:
@@ -101,12 +64,7 @@ file by using network miner</span><span style='mso-ascii-font-family:Calibri;
 mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
 mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_2" o:spid="_x0000_i1032" type="#_x0000_t75" style='width:510.75pt;
- height:261pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image002.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=681 height=348
-src="/assets/img/Reprisal_files/image003.jpg" v:shapes="Picture_x0020_2"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 src="/assets/img/Reprisal_files/image003.jpg" v:shapes="Picture_x0020_2"></span></p>
 
 <p class=MsoNormal><span style='font-size:18.0pt;line-height:107%;font-family:
 "Abd ElRady";color:black'>I tried to extract it but it had password so I tried
@@ -135,12 +93,8 @@ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-str
 text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
 float:none;word-spacing:0px'>lls4f3s3cur1ty ”</span><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_3" o:spid="_x0000_i1031" type="#_x0000_t75" style='width:471.75pt;
- height:224.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image004.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=629 height=299
-src="/assets/img/Reprisal_files/image005.jpg" v:shapes="Picture_x0020_3"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 
+src="/assets/img/Reprisal_files/image005.jpg" v:shapes="Picture_x0020_3"></span></p>
 
 <p class=MsoNormal><span class=GramE><span class=grame><span style='font-size:
 18.0pt;line-height:107%;font-family:"Abd ElRady";color:black'>So</span></span></span></span><span
@@ -153,12 +107,8 @@ class=spelle>pcap</span></span>&nbsp;file so I checked the&nbsp;<span
 class=SpellE><span class=spelle>pcap</span></span>&nbsp;file but nothing
 interesting in it so I tried if there is any tool to crack pdf password</span><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_4" o:spid="_x0000_i1030" type="#_x0000_t75" style='width:468pt;
- height:329.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image006.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=439
-src="/assets/img/Reprisal_files/image006.jpg" v:shapes="Picture_x0020_4"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=439
+src="/assets/img/Reprisal_files/image006.jpg" v:shapes="Picture_x0020_4"></span></p>
 
 <p class=MsoNormal style='mso-line-height-alt:11.55pt'><span class=GramE><span
 style='font-size:18.0pt;font-family:"Abd ElRady";mso-fareast-font-family:"Times New Roman";
@@ -175,12 +125,8 @@ class=SpellE>ihatehackers</span></span>&nbsp;”</span><span style='mso-ascii-fo
 Calibri;mso-fareast-font-family:"Times New Roman";mso-hansi-font-family:Calibri;
 mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_5" o:spid="_x0000_i1029" type="#_x0000_t75" style='width:468pt;
- height:90pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image007.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=120
-src="/assets/img/Reprisal_files/image007.jpg" v:shapes="Picture_x0020_5"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=120
+src="/assets/img/Reprisal_files/image007.jpg" v:shapes="Picture_x0020_5"></span></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
@@ -194,12 +140,8 @@ base64</span><span style='mso-ascii-font-family:Calibri;mso-fareast-font-family:
 "Times New Roman";mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
 color:black'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_6" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:468pt;
- height:227.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image008.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=303
-src="/assets/img/Reprisal_files/image008.jpg" v:shapes="Picture_x0020_6"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=303
+src="/assets/img/Reprisal_files/image008.jpg" v:shapes="Picture_x0020_6"></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;background:white'><span style='font-size:18.0pt;font-family:
@@ -209,12 +151,8 @@ class=GramE>footer</span></span><span style='font-size:15.0pt;font-family:"Sourc
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
 color:#262626'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_7" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:468pt;
- height:240pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image009.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=320
-src="/assets/img/Reprisal_files/image009.jpg" v:shapes="Picture_x0020_7"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=320
+src="/assets/img/Reprisal_files/image009.jpg" v:shapes="Picture_x0020_7"></span></p>
 
 <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
 line-height:normal;background:white'><span style='font-size:18.0pt;font-family:
@@ -231,23 +169,15 @@ I used it wow <span class=GramE>it’s</span> corrupted!!!</span><span
 style='font-size:15.0pt;font-family:"Source Sans Pro",sans-serif;mso-fareast-font-family:
 "Times New Roman";mso-bidi-font-family:"Times New Roman";color:#262626'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_9" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:468pt;
- height:244.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image010.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=326
-src="/assets/img/Reprisal_files/image010.jpg" v:shapes="Picture_x0020_9"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=326
+src="/assets/img/Reprisal_files/image010.jpg" v:shapes="Picture_x0020_9"></span></p>
 
 <p class=MsoNormal><span class=GramE><span style='font-size:18.0pt;line-height:
 107%;font-family:"Abd ElRady";color:#262626;background:white'>So</span></span><span
 style='font-size:18.0pt;line-height:107%;font-family:"Abd ElRady";color:#262626;
 background:white'> I started to fix it and boom the flag:</span><o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_10" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:468pt;
- height:117.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="/assets/img/Reprisal_files/image011.jpg" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=624 height=157
-src="/assets/img/Reprisal_files/image011.jpg" v:shapes="Picture_x0020_10"><![endif]></span></p>
+<p class=MsoNormal><span style='mso-no-proof:yes'><img border=0 width=624 height=157
+src="/assets/img/Reprisal_files/image011.jpg" v:shapes="Picture_x0020_10"></span></p>
 
 </div>
