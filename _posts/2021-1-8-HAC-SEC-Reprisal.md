@@ -58,8 +58,7 @@ style='font-size:18.0pt;line-height:107%;font-family:"Abd ElRady"'>&nbsp;</span>
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:18.0pt;line-height:107%;font-family:"Abd ElRady"'>&nbsp;</span></p>
 
-<p class=MsoNormal><span style='position:absolute;z-index:251659264;margin-left:
-62px;margin-top:129px;width:624px;height:388px'><img width=624 height=388 src="/assets/img/Reprisal_files/image003.jpg"></span><span style='font-size:18.0pt;
+<p class=MsoNormal><span style='left:0px;position:absolute;left:400px;top:-48px;width:624px;height:415px'><img width=624 height=388 src="/assets/img/Reprisal_files/image003.jpg"></span><span style='font-size:18.0pt;
 line-height:107%;font-family:"Abd ElRady"'>I tried to extract it but it had
 password so I tried to use john on it but nothing so I back to tcp streams
 again and I found the password on the 5<sup>th</sup> stream and it was = “ 4lls4f3s3cur1ty
