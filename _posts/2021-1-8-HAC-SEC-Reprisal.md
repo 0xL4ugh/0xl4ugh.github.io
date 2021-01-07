@@ -6,7 +6,7 @@ feature-img: "/assets/img/Reprisal_files/logo.jpg"              # Add a feature-
 thumbnail: "/assets/img/Reprisal_files/logo.jpg"  # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
-author: MMOX
+author: xElessaway
 excerpt_separator: <!--more-->
 tags: [ctf, writeup, DigitalForensics]
 ---
