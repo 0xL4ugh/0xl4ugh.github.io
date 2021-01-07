@@ -19,7 +19,6 @@ tags: [HTB, writeup, Machines]
 <br><!--more-->
 
 
-<body lang=EN-US link=blue vlink=purple style='word-wrap:break-word'>
 
 <div class=WordSection1>
 
@@ -44,7 +43,7 @@ tags: [HTB, writeup, Machines]
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
 
-<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1349 height=723 id="Picture 2" src="/assets/img/Bucket_files/image002.jpg" alt="002" "></span></p>
+<p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><img width=1349 height=723 id="Picture 2" src="/assets/img/Bucket_files/image002.jpg" alt="002"></span></p>
 
 <p style='margin:0in'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>&nbsp;</span></p>
 
@@ -242,4 +241,3 @@ we now are the root :D</span></p>
 
 </div>
 
-</body>
