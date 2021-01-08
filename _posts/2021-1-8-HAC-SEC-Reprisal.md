@@ -69,7 +69,7 @@ mso-bidi-font-family:Calibri;color:black'><o:p></o:p></span></p>
 <p class=MsoNormal><span style='font-size:18.0pt;line-height:107%;font-family:
 "Abd ElRady";color:black'>I tried to extract it but it had password so I tried
 to use john on it but nothing so I back to tcp streams again and I found the password on
-the 5th&nbsp;</span><span class=SpellE><span
+the 5&nbsp;</span><span class=SpellE><span
 class=spelle><span style='font-variant-ligatures: normal;font-variant-caps: normal;
 orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
 text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
