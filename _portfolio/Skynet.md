@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Angel Barre
-feature-img: "assets/img/portfolio/AngelBarre.jpeg"
-img: "assets/img/portfolio/AngelBarre.jpeg"
+feature-img: "assets/img/portfolio/Angel.jpeg"
+img: "assets/img/portfolio/Angel.jpeg"
 date: 2020-10-18
 tags: [Team]
 ---
