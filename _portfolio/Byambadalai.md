@@ -3,7 +3,7 @@ layout: post
 title: Byambadalai
 feature-img: "https://raw.githubusercontent.com/0xL4ugh/0xl4ugh.github.io/main/assets/img/portfolio/133879549_495974291364610_8935113054074444836_n.jpg"
 img: "https://raw.githubusercontent.com/0xL4ugh/0xl4ugh.github.io/main/assets/img/portfolio/133879549_495974291364610_8935113054074444836_n.jpg"
-date: August, 16 2001
+date: January, 17 2021
 tags: [Team]
 ---
 
