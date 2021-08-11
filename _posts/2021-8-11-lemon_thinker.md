@@ -17,15 +17,15 @@ Hello all , we hope all of you is well
 This writeup is from Abdoghazy , Mohamed Tarek
 Today we will explain how we could solve lemonthinker web challenge from rarctf .
 
-PIC 1 
+<img src="assets/img/writeups/lemon-thinker/Screenshot_1.png" /> 
 
 As we See This is an input and "Generate Your lemonthinker" 
 after trying it we got this photo
  
-PIC 2
+<img src="assets/img/writeups/lemon-thinker/Screenshot_2.png" /> 
 
 note that the source code is attached so let's see what inisde it 
-PIC 3 
+<img src="assets/img/writeups/lemon-thinker/Screenshot_3.png" /> 
 
 As we see at line 24 it takes the name from me and passes it to the command that running another script
 and there is no filtertion for the input that passes into the command so for sure we thought it's a command injection
@@ -39,7 +39,7 @@ but unforently it's not working with us then we see that the input is passes int
 so our payloads didn't working and as we learn at bash we could execute commands from this "$(ls)"
 and when we tried it we got the response from the server Alhamdullah
 
-PIC 4
+<img src="assets/img/writeups/lemon-thinker/Screenshot_4.png" /> 
 
 note : we tried to get reverse shell but no waaay :(
 so after this let's read the flag !!
@@ -48,11 +48,11 @@ note that we got that the flag is in ../flag.txt from the source
 
 so i tried :  $(cat ../flag.txt) and it returned this photo :
 
-pic 5
+<img src="assets/img/writeups/lemon-thinker/Screenshot_5.png" /> 
 
 so let's read the source of generate.py to know why 
 
-pic 6
+<img src="assets/img/writeups/lemon-thinker/Screenshot_6.png" /> 
 
 as you see at line 39 if the rarctf in the respone it will give us the image that we see
 so i tried to use this command : $(rev ../flag.txt)  and got this response !
