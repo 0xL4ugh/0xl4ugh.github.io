@@ -33,7 +33,7 @@ note that the os is linux
 the command : python3 generate.py {filename} \"{text}\" 
 the user input will be insted of {text} so we will inject there 
 
-as always we tried these payloads : ;id , ||whoami , &&id
+as always we tried these payloads : ";id , ||whoami , &&id"
 
 but unforently it's not working with us then we see that the input is passes into "" two double qoutes 
 so our payloads didn't working and as we learn at bash we could execute commands from this "$(ls)"
