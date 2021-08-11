@@ -2,8 +2,8 @@
 layout: post
 title: lemon thinker rarctf 2021 Web Challenges Writeup                               # Title of the page
 hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
-feature-img: "assets/img/writeups/hac-sec/Hac_Security.png"              # Add a feature-image to the post
-thumbnail: "assets/img/writeups/hac-sec/Hac_Security.png"  # Add a thumbnail image on blog view
+feature-img: "assets/img/writeups/lemon-thinker/Screenshot_1.png"              # Add a feature-image to the post
+thumbnail: "assets/img/writeups/lemon-thinker/Screenshot_1.png"  # Add a thumbnail image on blog view
 color: dufault                            # Add the specified color as feature image, and change link colors in post
 bootstrap: true                                   # Add bootstrap to the page
 author: abdoghazy
