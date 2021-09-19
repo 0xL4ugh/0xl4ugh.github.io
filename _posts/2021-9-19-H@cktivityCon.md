@@ -116,14 +116,14 @@ while browsing i found the github repo that had the source code ;)
 
 so as always i see the changes in the files and no thing intersted either admin password and it's not working also xD 
 but i found secret from admin called Flag and it's id 
-<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/oba_flagid.png" /> 
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/opa_flagid.png" /> 
 
 so let's see app.py  , as we see there is a endpoint called getValue that calls function called get_secret() 
-<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/oba_apppy.png" /> 
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/opa_apppy.png" /> 
 
 it sends post request to a locally host and get the secret so i tried secret id that we got and i got the flag xD
 
-<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/oba_flag.png" /> 
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/opa_flag.png" /> 
 
 
 also we had an medium command injection  challenge that use sha256 command but  filters all special chars  (;&|) so i bypassed it by  : /n so my payload was 
