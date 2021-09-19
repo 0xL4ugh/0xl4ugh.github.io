@@ -15,7 +15,7 @@ tags: [ctf, writeup, Forensics]
 
 Hello, It's Ahmed Mahmoud(xElessaway), and this is my writeups for some challenges I've solved in H@cktivityCon CTF 2021.
 
-```css
+```javascript
 | CHALLENGE           | CATEGORY          | DIFFCULTY |
 |---------------------|-------------------|-----------|
 | Excellent           | Digital Forensics | Medium    |
