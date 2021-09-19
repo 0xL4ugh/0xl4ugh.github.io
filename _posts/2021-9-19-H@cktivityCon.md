@@ -60,7 +60,7 @@ as you see we got the creds
 
 username :congon4tor   password : n8bboB!3%vDwiASVgKhv
 
-and there is's no user else 
+and there isn't  user else 
 
 so i stuck here but after review requests i found a request sent to graphql and i didn't like it :( 
 
@@ -90,7 +90,7 @@ so i started searching how to use mutation and queries and Alhamdullah I got it
 
 first we will get the token by this command : mutation{authenticateUser(username:"congon4tor" password:"n8bboB!3%vDwiASVgKhv"){token}}
 
-<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/abu_sqli_token.png" /> 
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/Hackcon/abu_graphql_token.png" /> 
 
 nice !!! Now We got the token but didn't know how to use it to call the flag maybe it's a authorization header or we will send it in graphql parameter but after i switch on my browser tabs i found the github repo for graphqlmap it provide us to sent custom headers 
 by this option : --headers
