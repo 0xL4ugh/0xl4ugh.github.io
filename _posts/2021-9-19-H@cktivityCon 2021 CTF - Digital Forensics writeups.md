@@ -41,7 +41,7 @@ Hello, It's Ahmed Mahmoud(xElessaway), and this is my writeups for some challeng
 
   >  it will only need a one tool from this list 
 
-```
+```java
 1- Volatility
 2- Linux Commands
 3- LibreOffice
@@ -53,7 +53,7 @@ In the challenge I provided a .bin file. So I tried to open it on Autopsy and FT
 
 First, I started to check the image info by using 
 
-```
+```java
 python3 vol.py -f image.bin windows.info
 	-f to select the image
 ```
@@ -61,7 +61,7 @@ python3 vol.py -f image.bin windows.info
 Note: I used Volatility3 not Volatility2
 if you will use Volatility2 you can use this command to get the profile of the image.
 
-```
+```java
 python vol.py -f image.bin imageinfo
 ```
 
@@ -71,13 +71,13 @@ So It's working on volatility now it's time to go psscan to check the process.
 
 > Volatility3
 
-```
+```java
 python3 vol.py -f image.bin windows.info
 ```
 
 > Volatility2
 
-```
+```java
 python vol.py -f image.bin --profile=the_profile_you_got psscan
 ```
 
@@ -87,13 +87,13 @@ Okay I got so many process in the scan so I went through process to check if the
 
 > Volatility3
 
-```
+```java
 python3 vol.py -f image.bin windows.cmd
 ```
 
 > Volatility2
 
-```
+```java
 python vol.py -f image.bin --profile=the_profile_you_got cmdscan
 ```
 
@@ -105,13 +105,13 @@ Okayy this is interesting I've found ("C:\Users\congon4tor\Desktop\flag.ods") so
 
 > Volatility3
 
-```
+```java
 python3 vol.py -f image.bin windows.filescan | grep flag.ods
 ```
 
 > Volatility2
 
-```
+```java
 python vol.py -f image.bin --profile=the_profile_you_got filescan | grep flag.ods
 ```
 
@@ -123,14 +123,14 @@ and I got the offset of the file. So let's dump it and open it on LibreOffice.
 
 > Volatility3
 
-```
+```java
 python3 vol.py -f image.bin windows.dumpfiles --virtaddr 0xaa873a6567c0
 	--virtaddr To select the specific offset of the file.
 ```
 
 > Volatility2
 
-```
+```java
 python vol.py -f image.bin --profile=the_profile_you_got dumpfiles -Q 0xaa873a6567c0 -D output
 	-Q To select the specific offset of the file.
 	-D to choose the folder that I want to dump to.
@@ -146,7 +146,7 @@ So After Dumping the file and open it on LibreOffice I got the flag.
 
 
 
-```markdown
+```java
 | CHALLENGE           | CATEGORY          | DIFFCULTY |
 |---------------------|-------------------|-----------|
 | Excellent✔️        | Digital Forensics | Medium    |
@@ -173,7 +173,7 @@ So After Dumping the file and open it on LibreOffice I got the flag.
 
   >  it will only need a one tool from this list 
 
-```
+```java
 1- Linux Commands
 ```
 
@@ -189,7 +189,7 @@ So I split logs and put these logs into folder. So it's more easy to search on i
 
 I googled on how to grep all sites on fiiles and I got this command 
 
-```
+```java
 grep -Po '([a-z]+\.)+[a-z]+(/\w+)*' file_name
 so I greped on all the logs using this
 grep -Po '([a-z]+\.)+[a-z]+(/\w+)*' *
@@ -197,7 +197,7 @@ grep -Po '([a-z]+\.)+[a-z]+(/\w+)*' *
 
 I notice that there are Github so I tried to grep it and uniq it to be more clear to see
 
-```
+```java
 grep -Po '([a-z]+\.)+[a-z]+(/\w+)*' * | sort | grep github | uniq
 ```
 
