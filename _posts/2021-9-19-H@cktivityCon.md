@@ -110,7 +110,7 @@ After you read : i see it's a not hard challenge but any way let's see
 
 after signup & login we found that it takes secret 
 
-<img src="http://github.com/0xL4ugh/0xL4ugh.github.io/raw/main/assets/img/writeups/Hackcon/opa_index" /> 
+<img src="http://github.com/0xL4ugh/0xL4ugh.github.io/raw/main/assets/img/writeups/Hackcon/opa_index.png" /> 
 
 while browsing i found the github repo that had the source code ;) 
 
