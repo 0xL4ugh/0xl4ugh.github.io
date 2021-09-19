@@ -54,7 +54,7 @@ if you will use Volatility2 you can use this command to get the profile of the i
 python vol.py -f image.bin imageinfo
 ```
 
-![Excellent_1](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Excellent_1.png)
+![Excellent_1](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Excellent_1.png)
 
 So It's working on volatility now it's time to go psscan to check the process.
 
@@ -70,7 +70,7 @@ python3 vol.py -f image.bin windows.info
 python vol.py -f image.bin --profile=the_profile_you_got psscan
 ```
 
-![Excellent_2](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Excellent_2.png)
+![Excellent_2](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Excellent_2.png)
 
 Okay I got so many process in the scan so I went through process to check if there is any suspicious process or something can crash the pc. But I didn't see something interesting except **LibreOffice** So I went to check the cmd if he used it.
 
@@ -88,7 +88,7 @@ python vol.py -f image.bin --profile=the_profile_you_got cmdscan
 
 
 
-![Excellent_3](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Excellent_3.png)
+![Excellent_3](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Excellent_3.png)
 
 Okayy this is interesting I've found ("C:\Users\congon4tor\Desktop\flag.ods") so Time to do file scan and get this file.
 
@@ -106,7 +106,7 @@ python vol.py -f image.bin --profile=the_profile_you_got filescan | grep flag.od
 
 
 
-![Excellent_4](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Excellent_4.png)
+![Excellent_4](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Excellent_4.png)
 
 and I got the offset of the file. So let's dump it and open it on LibreOffice.
 
@@ -127,7 +127,7 @@ python vol.py -f image.bin --profile=the_profile_you_got dumpfiles -Q 0xaa873a65
 
 So After Dumping the file and open it on LibreOffice I got the flag.
 
-![Excellent_Flag](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Excellent_Flag.png)
+![Excellent_Flag](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Excellent_Flag.png)
 
 > Flag is : flag{4b02ee4e7b62139152e8d0d4373a7c3d}
 
@@ -168,13 +168,13 @@ So After Dumping the file and open it on LibreOffice I got the flag.
 
 - Steps
 
-In the challenge I provided a .zip file that contains many many logs.![Bacon_1](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Bacon_1.png)
+In the challenge I provided a .zip file that contains many many logs.![Bacon_1](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Bacon_1.png)
 
-I started to go through files and I notice that there are http and ssl logs.![Bacon_3](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Bacon_3.png)
+I started to go through files and I notice that there are http and ssl logs.![Bacon_3](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Bacon_3.png)
 
 So I split logs and put these logs into folder. So it's more easy to search on it
 
-![Bacon_2](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Bacon_2.png)
+![Bacon_2](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Bacon_2.png)
 
 I googled on how to grep all sites on fiiles and I got this command 
 
@@ -190,11 +190,11 @@ I notice that there are Github so I tried to grep it and uniq it to be more clea
 grep -Po '([a-z]+\.)+[a-z]+(/\w+)*' * | sort | grep github | uniq
 ```
 
-![Bacon_4](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Bacon_4.png)
+![Bacon_4](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Bacon_4.png)
 
 and yes I got a github page [Sketchysite](https://sketchysite.github.io/) I opened it and I got the flag :D
 
-![Bacon_Flag](C:\Users\ahmed\Desktop\hacktivitycon-Forensics-xElessaway\Bacon_Flag.png)
+![Bacon_Flag](https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hacktivitycon-Forensics-xElessaway/Bacon_Flag.png)
 
 > Flag is : flag{8626fe7dcd8d412a80d0b3f0e36afd4a}
 
