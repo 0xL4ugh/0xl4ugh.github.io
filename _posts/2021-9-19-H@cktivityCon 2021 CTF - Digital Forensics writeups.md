@@ -1,7 +1,18 @@
 ------
 
 ## 					   							**H@cktivityCon 2021 CTF - Digital Forensics writeups**
-
+---
+layout: post
+title:  H@cktivityCon 2021 CTF - Digital Forensics writeups                              # Title of the page
+hide_title: false                                  # Hide the title when displaying the post, but shown in lists of posts
+feature-img: "assets/img/writeups/hacktivitycon-Forensics-xElessaway/Excellent_1.png"              # Add a feature-image to the post
+thumbnail: "assets/img/writeups/hacktivitycon-Forensics-xElessaway/Excellent_1.png"  # Add a thumbnail image on blog view
+color: dufault                            # Add the specified color as feature image, and change link colors in post
+bootstrap: true                                   # Add bootstrap to the page
+author: xElessaway
+excerpt_separator: <!--more-->
+tags: [ctf, writeup, Web]
+---
 Hello, It's Ahmed Mahmoud(xElessaway), and this is my writeups for some challenges I've solved in H@cktivityCon CTF 2021.
 
 ```markdown
