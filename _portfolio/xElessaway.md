@@ -7,8 +7,6 @@ date: 31-12-2000
 tags: [Team]
 ---
 <p style ="text-align: center; font-size: 40px">
-
-2nd year computer science student at Ahram Canadian University <br>
-Interested in: Digital Forensics , crypto and some web Security ,CTF player
+Hello, I'm Ahmed Mahmoud ( xEleesaway ) I'm a Computer Science student. I'm interested in Digital Forensics. and I'm CTF Player&Creator
 </p>
 
