@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Abdelhameed Ghazy
-feature-img: "assets/img/portfolio/ghazy.jpeg"
-img: "assets/img/portfolio/ghazy.jpeg"
+feature-img: "assets/img/portfolio/242022782_2858012394508881_3056023479610746144_n.jpg"
+img: "assets/img/portfolio/242022782_2858012394508881_3056023479610746144_n.jpg"
 date: August, 16 2001
 tags: [Team]
 ---
