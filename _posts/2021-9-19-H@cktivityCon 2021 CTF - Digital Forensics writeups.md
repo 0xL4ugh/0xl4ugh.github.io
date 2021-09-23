@@ -239,7 +239,6 @@ and yes I got a github page [Sketchysite](https://sketchysite.github.io/) I open
 ```java
 1- Google
 2- Scripting
-3- LibreOffice
 ```
 
 - Steps
