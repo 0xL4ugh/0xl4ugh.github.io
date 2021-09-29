@@ -41,7 +41,7 @@ then i looping in the cipher and take every word and stored it in var called g t
 and then check if the encoded value in cipher equal to the encoded value in the request if equal just add the char to the flag  and got this result
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_16.png" />
 
-<h2>Seconde Challenge : it's paid (e-shop logic bug & leaked creds)</h2>
+<h2>Second Challenge : it's paid (e-shop logic bug & leaked creds)</h2>
 Des : I heard that admin leaked something somewhere o.O
 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_6.png" />
