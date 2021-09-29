@@ -55,69 +55,85 @@ i tried sqli in reddem code parameter to bypass it or to dump data but i couldn'
 so i tried to buy the course and intercept the request 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_9.png" />
 as you see at the request the bug here is the price sent from client-side so let's try to manuplate it maybe it's not validated in server-side so i made the prize 0 to made it free
-10-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_10.png" />
 and Alhamdullah as you see it's working !!!
-11-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_11.png" />
+
 when i entered every course i noticed that every course had 2 seconds video told us it will be available next batch i keep doing this until i found a 10 seconds video so i started this video and found admin panel,creds as a plain text in the url !!!
-12--------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_12.png" />
+
 so i navigated into the panel and logged in by the creds and i found this 
-13-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_13.png" />
+
 then i noticed that i had cookie called special person had false value
-14------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_14.png" />
 so i made it true and got the flag Hamdullah
-15------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_15.png" />
+
 
 
 Third Challenge : Open Flag (ssti & upload from terminal)
 
-17-----
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_17.png" />
+
 
 as you see there is a login panel i tried sqli on it but nothing interested 
 so i tried to register manually and intercept the request to play with it 
-19------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_19.png" />
+
 as you see there my username reflected on the source as a html comment so and because it's a post request i will let the xss to the end and also from webapplizer we will know the server uses flask so i tried ssti (server side template injection ) so i tried {{7*7}} to check and alhamdullah it's working 
-20------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_20.png" />
+
 so i opened this repo to get ssti payloads 
 (https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server Side Template Injection)
 then i used this payload and it's working also Hamdullah 
-21------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_21.png" />
+
 
 as you see in the same page source the flag is in flag.jpg so i used (which curl)
 command to make sure that the curl is installed in the system then i used 
 transfer.sh site to upload the photo 
-22------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_22.png" />
+
 
 and this is the flag Hamdullah ! 
-24---------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_24.png" />
+
 
 
 Fourth Challenge : Recovery (OTP breach leads to bypass)
 des: Help PJ pls, he is a memory loss patient who forgot his password Try your hacking skills to help him
 
-25---------------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_25.png" />
+
 
 as you see the home page had 2 tabs 
 when we enter Solve The Challenge we will found login page
-32------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_32.png" />
+
 no bypass,no sqli so i cameback and entered Help PJ 
 and i found a reset password form contains mail and lastpassword and capatcha i found last password in html comment :
 <!-- i think it's tamilctf123 -->
-27-----
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_27.png" />
+
 after i filled the form i found an otp enter so i asked the admin if there is any bruteforcing and he told me no bruteforcing 
 so as usual i tried sqli and searching for any leaked data 
 and also there is no response manuplation or host header injection so let's cameback and trace the request of resetting password after i intercept the request i found the otp breached at response header for the reset request 
 
-29------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_29.png" />
 
 so i submitted it and site redirected me to this page 
-30----
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_30.png" />
+
 after i veiewd the sourcecode i found i hidden tag with a cookie name and value so i set it and after that i cameback to solve the challenge and i found the form had no action and there is a comment told us that "/login" is missing here so when i entered /login i found the flag in the source  
-33------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_33.png" />
+
 
 Fifth Challenge : News Letter (sqli leads to bypass login , xxe )
 des:TamilCTF plans to send news updates to their participants, a web developer from their team creates a Web App for that. You have been informed to steal the flag from their Web App.
 
-34-----
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_34.png" />
+
 
 there is a login form with header told us to breah the auth
 so i used 
@@ -125,26 +141,32 @@ so i used
 and i bypassed it hamdullah 
 then it redirected me to signup form for newsletter 
 i tried sqli also xD (always trying it in every place i feel it's dealing with db ) it's not vulnerable to sqli so i filled the form and found that the email reflected in the page told is that's exist before so i tried random emails and response is static just the email changes 
-35-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_35.png" />
+
 after viewing the source i found that the form sends by xml request in xml form so i intercepted the request and found this 
-36-----
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_36.png" />
+
 after that i opened this repo :
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
 and tried xxe and it worked so i treid to read /etc/passwd file 
-37--------------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_37.png" />
+
 after that i read the source of the php files
-38-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_38.png" />
+
 but no flag also 
 but after viewing the html source i found this html comment:
 <!--Your "flag" is in the directory which stores configuration files-->
 so i tried to read "/etc/flag"
 and found the flag Hamdullah 3>
-39----------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_39.png" />
+
 
 Sixth Challenge : Meeting (mix of things xD)
 des:Gokul is trying to cheat in this test, Help him
 
-40
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_40.png" />
+
 
 as we see maybe it's a video meetings paltform 
 i tried to get sqli or to bypass meetcode parameter but it's not vulnerable to it so i trying to get a new meeting code but it's sending get request to the same page so i tried to send post request and i get a base64 encoded meeting code 
