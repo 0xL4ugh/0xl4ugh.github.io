@@ -34,7 +34,6 @@ so i made this script :
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_62.png" />
 the flaw of my script is taking every encoded word and try to get the encoded value for every chars and numbers we will use if the encoded value equal to the cipher add the char to the flag
 first i imported python requests library 
-**note that i imported sys by wrong no need to it **
 then i declared a string variable called flag to store flag on it 
 then stored all need chars and numbers in varibale called alpha
 and the cipher in variable called cipher
