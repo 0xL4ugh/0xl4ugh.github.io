@@ -170,13 +170,17 @@ des:Gokul is trying to cheat in this test, Help him
 
 as we see maybe it's a video meetings paltform 
 i tried to get sqli or to bypass meetcode parameter but it's not vulnerable to it so i trying to get a new meeting code but it's sending get request to the same page so i tried to send post request and i get a base64 encoded meeting code 
-41-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_40.png" />
+
 after i decoded it and enter the meeting i found that i cannot send anything to the meeting chat and also i logged in as (jopraveen) user and as we know from challenege description we need to be Gokul to help him cheating xD
-42-------- 
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_42.png" />
+
 so i see the cookies to see how it's set our user and i found cookie called user that controls this 
-43-----------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_43.png" />
+
 so i changed it to Gokul and now we are logged in with his account
-44--------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_44.png" />
+
 as you can see we could send in the meeting chat 
 so i tried xss and ssti but there is no thing interested 
 so i viewed the source code and found this html comment :
@@ -184,38 +188,52 @@ so i viewed the source code and found this html comment :
 
 so i put my beeceptor link and recieved a request 
 and while i see the request headers i see this 
-45--------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_45.png" />
+
 yeah , it's admin cookie so i set it and found magic word appeared but i didn't know how to use it
 so i watch the meeting video and found that the exam is in /form 
-47----------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_47.png" />
+
 so i opened it and filled it with the magic word and got the flag and also first blood Alhamdullah 3>
-48----------------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_48.png" />
 
 Seventh Challenge : become admin (host header injection )
 Des : I heard you’re a hacker can you become admin of this site ?
 
-49---------------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_49.png" />
+
 
 they provide creds of admin and told you that db was removed due to cyber attack so let's try to login with the creds
-51-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_51.png" />
+
 no thing here but i noticed that the path we are in is /account/login 
-52-------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_52.png" />
+
 so i tried /account/register and it's worikng ;)
-53----------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_53.png" />
+
 i registered by the creds like the title said and resirected to the dashboard 
-54-------------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_54.png" />
+
 but once i clicked on get the flag it was a trick kicked us out :/
-55-----
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_55.png" />
+
 and we are now in this page 
-56--------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_56.png" />
+
 it said that the admin automate his password resetting so let's try to reset password and intercept the request 
-57-----
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_57.png" />
+
 nothing breached so i tried host header injection attack 
-59----------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_59.png" />
+
 as you see i edited the host header with my beeceptor and recieved the token Hamdullah 3>
-58-----------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_58.png" />
+
 after i navigated to the token i could change the password of admin now
-60---------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_60.png" />
+
 after i send the request i found the flag in the response header 
-61------------
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_61.png" />
+
 
