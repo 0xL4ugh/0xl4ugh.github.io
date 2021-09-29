@@ -31,7 +31,7 @@ then i go to /flag to see what's on it
 it's clear now we had an encoded flag and an encoder and they allowed us to use only lowercase chars and numbers 
 we could made it manually but i prefered to auomate the process
 so i made this script : 
-<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_63.png" />
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_62.png" />
 the flaw of my script is taking every encoded word and try to get the encoded value for every chars and numbers we will use if the encoded value equal to the cipher add the char to the flag
 first i imported python requests library 
 **note that i imported sys by wrong no need to it **
