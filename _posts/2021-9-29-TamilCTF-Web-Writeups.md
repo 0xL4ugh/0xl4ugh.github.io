@@ -17,7 +17,7 @@ tags: [ctf, writeup, Web]
 hello everybody iam abdelhameed ghazy and this is my writeup for web challenges in tamilctf 2021 
 
 
-First Challenge : CringeNcoder (scripting)
+<h2>First Challenge : CringeNcoder (scripting)</h2>
 Des : flag is located at flag, but its not flag
 
 when you enter the challenge we will find this :
@@ -42,7 +42,7 @@ then i looping in the cipher and take every word and stored it in var called g t
 and then check if the encoded value in cipher equal to the encoded value in the request if equal just add the char to the flag  and got this result
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_16.png" />
 
-Seconde Challenge : it's paid (e-shop logic bug & leaked creds)
+<h2>Seconde Challenge : it's paid (e-shop logic bug & leaked creds)</h2>
 Des : I heard that admin leaked something somewhere o.O
 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_6.png" />
@@ -72,7 +72,7 @@ so i made it true and got the flag Hamdullah
 
 
 
-Third Challenge : Open Flag (ssti & upload from terminal)
+<h2>Third Challenge : Open Flag (ssti & upload from terminal)</h2>
 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_17.png" />
 
@@ -101,7 +101,7 @@ and this is the flag Hamdullah !
 
 
 
-Fourth Challenge : Recovery (OTP breach leads to bypass)
+<h2>Fourth Challenge : Recovery (OTP breach leads to bypass)</h2>
 des: Help PJ pls, he is a memory loss patient who forgot his password Try your hacking skills to help him
 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_25.png" />
@@ -129,7 +129,7 @@ after i veiewd the sourcecode i found i hidden tag with a cookie name and value 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_33.png" />
 
 
-Fifth Challenge : News Letter (sqli leads to bypass login , xxe )
+<h2>Fifth Challenge : News Letter (sqli leads to bypass login , xxe )</h2>
 des:TamilCTF plans to send news updates to their participants, a web developer from their team creates a Web App for that. You have been informed to steal the flag from their Web App.
 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_34.png" />
@@ -162,7 +162,7 @@ and found the flag Hamdullah 3>
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_39.png" />
 
 
-Sixth Challenge : Meeting (mix of things xD)
+<h2>Sixth Challenge : Meeting (mix of things xD)</h2>
 des:Gokul is trying to cheat in this test, Help him
 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_40.png" />
@@ -197,7 +197,7 @@ so i watch the meeting video and found that the exam is in /form
 so i opened it and filled it with the magic word and got the flag and also first blood Alhamdullah 3>
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_48.png" />
 
-Seventh Challenge : become admin (host header injection )
+<h2>Seventh Challenge : become admin (host header injection )</h2>
 Des : I heard you’re a hacker can you become admin of this site ?
 
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/tamilctf2021/Screenshot_49.png" />
