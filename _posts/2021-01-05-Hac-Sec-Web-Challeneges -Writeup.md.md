@@ -27,7 +27,8 @@ The Second challenge Called guess and when you entered it you will see that :
 <img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hac-sec/guess.png" />
 
 so let's give it a get parameter called guess 
-assets/img/writeups/hac-sec/guess1.png
+<img src="https://github.com/0xL4ugh/0xl4ugh.github.io/raw/main/assets/img/writeups/hac-sec/guess1.png" />
+
 as you see alhamdullah we are in the right path :) 
 so to show the flag we must give guess parameter a number  with this conditions :
 1- greater than 2000 
